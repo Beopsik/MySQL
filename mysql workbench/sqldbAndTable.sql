@@ -24,7 +24,7 @@ CREATE TABLE usertbl
  INSERT INTO usertbl VALUES('LSG', '이승기', 1987, '서울', '011', '1111111', 182, '2008-8-8');
 INSERT INTO usertbl VALUES('KBS', '김범수', 1979, '경남', '011', '2222222', 173, '2012-4-4');
 INSERT INTO usertbl VALUES('KHH', '김경호', 1971, '전남', '019', '3333333', 177, '2007-7-7');
-INSERT INTO usertbl VALUES('JYP', '조용필', 1950, '경기', '011', '4444444', 173, '2009-4-4');
+INSERT INTO usertbl VALUES('JYP', '조용필', 1950, '경기', '011', '4444444', 166, '2009-4-4');
 INSERT INTO usertbl VALUES('SSK', '성시경', 1979, '서울', NULL, NULL, 186, '2013-12-12');
 INSERT INTO usertbl VALUES('LJB', '임재범', 1963, '서울', '016', '6666666', 182, '2009-9-9');
 INSERT INTO usertbl VALUES('YJS', '윤종신', 1969, '경남', NULL, NULL, 170, '2005-5-5');
