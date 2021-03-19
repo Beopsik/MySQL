@@ -29,8 +29,8 @@ INSERT INTO usertbl VALUES('SSK', '성시경', 1979, '서울', NULL, NULL, 186, 
 INSERT INTO usertbl VALUES('LJB', '임재범', 1963, '서울', '016', '6666666', 182, '2009-9-9');
 INSERT INTO usertbl VALUES('YJS', '윤종신', 1969, '경남', NULL, NULL, 170, '2005-5-5');
 INSERT INTO usertbl VALUES('EJW', '은지원', 1972, '경북', '011', '8888888', 174, '2014-3-3');
-INSERT INTO usertbl VALUES('JKW', '조관우', 1965, '경기', '018', '6666666', 172, '2010-10-10');
-INSERT INTO usertbl VALUES('BBK', '바비킴', 1973, '서울', '010', '0000000', 186, '2013-5-5');
+INSERT INTO usertbl VALUES('JKW', '조관우', 1965, '경기', '018', '9999999', 172, '2010-10-10');
+INSERT INTO usertbl VALUES('BBK', '바비킴', 1973, '서울', '010', '0000000', 176, '2013-5-5');
 INSERT INTO buytbl VALUES(NULL, 'KBS', '운동화', NULL, 30, 2);
 INSERT INTO buytbl VALUES(NULL, 'KBS', '노트북', '전자', 1000, 1);
 INSERT INTO buytbl VALUES(NULL, 'JYP', '모니터', '전자', 200, 1);
